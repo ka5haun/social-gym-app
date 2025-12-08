@@ -1,4 +1,4 @@
-This website is a campus life site. 
+This website is a campus life site where you can find info about the college/campus.
 
 Info Provided:
 Residence Life, Dining, Upcoming Events, and Contact Info
